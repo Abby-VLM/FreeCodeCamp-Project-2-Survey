@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+html {
+  min-height: 100%;
+  background-image: url("https://media.istockphoto.com/videos/motion-blue-lines-abstract-background-video-id1127188244?s=640x640");
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+ 
+
+.fieldset {
+  
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  
+  text-align: center;
+  color: #5a5c61;
+}
+
+.question {
+  color: black;
+}
+
+
+.form-control{
+  width: 70%;
+  margin: 5px;
+  padding: 3px;
+}
+
+#description {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+  color: #313233;
+  text-align: center; 
+  padding: 0px;
+  
+}
+
+#title {
+  text-align: center;
+  font-family: helvetica;
+  color: #313233;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.clue {
+  font-size: 12px;
+}
+
+.input-textarea {
+  width: 50%;
+  padding: 20px;
+}
+
+#submit {
+  padding: 5px;
+}
+
+
